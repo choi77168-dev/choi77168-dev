@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Seunghee
+
+프론트엔드 개발을 공부하고 있습니다.  
+사용자가 보기 편한 화면과 정리된 구조의 코드를 만드는 데 관심이 있어요.
+
+## 👤 Profile
+
+아직은 배우는 단계지만,  
+하루하루 기록하며 천천히 실력을 쌓아가고 있습니다.  
+작은 디테일이 완성도를 만든다고 믿습니다.
 <!--
 **choi77168-dev/choi77168-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
